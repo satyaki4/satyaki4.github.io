@@ -15,7 +15,7 @@ Teaching Assistant, Fall 2020-Present
 <small>Fall 2020: [ECO 250R-17][eco_250R_17]</small>
 <small>Spring 2021: [ECO 250R-01][eco_250R_01]|[ECO 250R-02][eco_250R_02]|[ECO 250R-03][eco_250R_03]|[ECO 250R-04][eco_250R_04]</small>
 
-[eco_250R_01]: https://satyaki4.github.io/G:/files/teaching_evaluations/Spring_2021_ECO_250R_01_couse_evaluation.pdf
+[eco_250R_01]: https://satyaki4.github.io/G:/files/Spring_2021_ECO_250R_01_couse_evaluation.pdf
 [eco_250R_02]
 [eco_250R_03]
 [eco_250R_04]
