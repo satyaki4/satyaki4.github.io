@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Satyaki Chakravarty"
 title_separator          : "-"
 name                     : &name "Satyaki Chakravarty"
-description              : &description "Ph.D. Candidate @ Department of Economics"
+description              : &description "Ph.D. Candidate at Department of Economics"
 url                      : https://satyaki4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "satyaki4.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Satyaki Chakravarty"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate Department of Economics"
+  bio              : "Ph.D. Candidate, Department of Economics"
   location         : "UNC Greensboro"
   employer         :
   pubmed           :
