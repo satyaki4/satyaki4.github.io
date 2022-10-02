@@ -9,9 +9,7 @@ author_profile: true
 
 ### ECO 250: Economic and Business Statistics
 Instructor, Summer 2021
-<div style="display: none; text-align: justify; line-height: 1.2" >
 <br/><small>Summer 2021: [ECO 250-01][eco_250_01]</small><br>
-</div>
 
 [eco_250_01]: https://satyaki4.github.io/files/Summer_2021_ECO_250-01_course_evaluation.pdf
 
