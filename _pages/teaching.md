@@ -20,10 +20,10 @@ Teaching Assistant, Spring 2020
 <br/><small>Spring 2020: [ECO 201R-04][eco_201R_04] | [ECO 201R-05][eco_201R_05] | [ECO 201R-06][eco_201R_06] | [ECO 201R-07][eco_201R_07]</small><br>
 
 ### ECO 100: Economics of Global Sustainable Society
-Teaching Assistant, Spring 2020
+Teaching Assistant, Fall 2019
 
 ### MAS 620: The Global Economy
-Teaching Assistant, Spring 2020
+Teaching Assistant, Fall 2019
 
 [eco_201R_04]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_04_course_evaluation.pdf
 [eco_201R_05]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_05_course_evaluation.pdf
