@@ -16,10 +16,10 @@ Teaching Assistant, Fall 2020-Present
 
 <small>Spring 2021: [ECO 250R-01][eco_250R_01]|[ECO 250R-02][eco_250R_02]|[ECO 250R-03][eco_250R_03]|[ECO 250R-04][eco_250R_04]</small>
 
-[eco_250R_01]: https://satyaki4.github.io/G:/files/Spring_2021_ECO_250R_01_course_evaluation.pdf
-[eco_250R_02]: https://satyaki4.github.io/G:/files/Spring_2021_ECO_250R_02_course_evaluation.pdf
-[eco_250R_03]: https://satyaki4.github.io/G:/files/Spring_2021_ECO_250R_03_course_evaluation.pdf
-[eco_250R_04]: https://satyaki4.github.io/G:/files/Spring_2021_ECO_250R_04_course_evaluation.pdf
+[eco_250R_01]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_01_course_evaluation.pdf
+[eco_250R_02]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_02_course_evaluation.pdf
+[eco_250R_03]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_03_course_evaluation.pdf
+[eco_250R_04]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_04_course_evaluation.pdf
 
 ### ECO 201: Microeconomics
 Teaching Assistant, Spring 2020
