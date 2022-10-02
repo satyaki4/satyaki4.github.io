@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Economics, University of North Carolina at Greensboro, 2019-2023 (Expected)
+* Ph.D. Economics, University of North Carolina at Greensboro, 2019-2023 (Expected)
 * M.Sc. Economics, Gokhale Institute of Politics and Economics, 2014-2016
 * B.Sc. Economics, Ramakrishna Mission Vidyamandira, 2011-2014
 
