@@ -11,33 +11,27 @@ author_profile: true
 Instructor, Summer 2021
 <br/><small>Summer 2021: [ECO 250-01][eco_250_01]</small><br>
 
-[eco_250_01]: https://satyaki4.github.io/files/Summer_2021_ECO_250-01_course_evaluation.pdf
-
 Teaching Assistant, Fall 2020-Present
-
 <br/><small>Fall 2020: [ECO 250R-17][eco_250R_17]</small><br>
-
-[eco_250R_17]: https://satyaki4.github.io/files/Fall_2020_ECO_250R_17_course_evaluation.pdf
-
 <br/><small>Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small><br>
-
-[eco_250R_01]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_01_course_evaluation.pdf
-[eco_250R_02]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_02_course_evaluation.pdf
-[eco_250R_03]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_03_course_evaluation.pdf
-[eco_250R_04]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_04_course_evaluation.pdf
 
 ### ECO 201: Microeconomics
 Teaching Assistant, Spring 2020
-
 <br/><small>Spring 2020: [ECO 201R-04][eco_201R_04] | [ECO 201R-05][eco_201R_05] | [ECO 201R-06][eco_201R_06] | [ECO 201R-07][eco_201R_07]</small><br>
-
-[eco_201R_04]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_04_course_evaluation.pdf
-[eco_201R_05]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_05_course_evaluation.pdf
-[eco_201R_06]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_06_course_evaluation.pdf
-[eco_201R_07]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_07_course_evaluation.pdf
 
 ### ECO 100: Economics of Global Sustainable Society
 Teaching Assistant, Spring 2020
 
 ### MAS 620: The Global Economy
 Teaching Assistant, Spring 2020
+
+[eco_201R_04]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_04_course_evaluation.pdf
+[eco_201R_05]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_05_course_evaluation.pdf
+[eco_201R_06]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_06_course_evaluation.pdf
+[eco_201R_07]: https://satyaki4.github.io/files/Spring_2020_ECO_201R_07_course_evaluation.pdf
+[eco_250_01]: https://satyaki4.github.io/files/Summer_2021_ECO_250-01_course_evaluation.pdf
+[eco_250R_17]: https://satyaki4.github.io/files/Fall_2020_ECO_250R_17_course_evaluation.pdf
+[eco_250R_01]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_01_course_evaluation.pdf
+[eco_250R_02]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_02_course_evaluation.pdf
+[eco_250R_03]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_03_course_evaluation.pdf
+[eco_250R_04]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_04_course_evaluation.pdf
