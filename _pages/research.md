@@ -10,9 +10,10 @@ author_profile: true
 ### America Invents Act and innovation by small entities 
 <small>[ <a href="#/" onclick="visib('AIA')">Abstract</a> | [Draft][AIA] ] </small>
 
-<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="AIA" style="display: none; text-align: justify; line-height: 1.2" ><small>
 text
 </small><br><br/></div>
+
 ### 1
 sub1, sub2
 
