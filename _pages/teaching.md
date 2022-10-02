@@ -10,9 +10,15 @@ author_profile: true
 ### ECO 250: Economic and Business Statistics
 Instructor, Summer 2021
 
+<small>Summer 2021: [ECO 250-01][eco_250_01]</small>
+
+[eco_250_01]: https://satyaki4.github.io/files/Summer_2021_ECO_250-01_course_evaluation.pdf
+
 Teaching Assistant, Fall 2020-Present
 
 <small>Fall 2020: [ECO 250R-17][eco_250R_17]</small>
+
+[eco_250R_17]: https://satyaki4.github.io/files/Fall_2020_ECO_250R_17_course_evaluation.pdf
 
 <small>Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small>
 
