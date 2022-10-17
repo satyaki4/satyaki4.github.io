@@ -27,7 +27,7 @@ China and India reported highest growth in high-tech exports for the past two de
 ## Other Publications
 
 **Should FRAND royalties be based on SSPPU or downstream prices- An analytical framework**. 2018. Policy Brief IPR/2018/02, India Development Foundation
-(with [Ishan Banerjee](https://twitter.com/ishanbanerjee?lang=en), [Shubhashis Gangopadhyay](https://www.idfresearch.org/team), [Geeta Gouri](https://www.idfresearch.org/team))
+(with [Ishan Banerjee](https://twitter.com/ishanbanerjee?lang=en), [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Geeta Gouri](https://www.idfresearch.org/team))
 <br/><small>[Paper](https://idfresearch.org/uploads/academic_papers/1628177104_Should%20FRAND%20royalties%20be%20based%20on%20SSPPU%20or%20downstream%20prices.pdf)</small><br>
 
 **An exploration into royalty stacking and price posting**. 2018. Policy Brief IPR/2018/01, India Development Foundation
