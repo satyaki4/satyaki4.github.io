@@ -12,6 +12,6 @@ Hello and welcome! I am Satyaki Chakravarty, Ph.D. Candidate at the Department o
 
 I am passionate about the economics of innovation, and particularly patents. My job market paper studies the patenting activity of small entities before and after the Leahy-Smith America Invents Act (AIA) of 2011.
 
-Click [*here*](https://satyaki4.github.io/files/JMP_satyaki.pdf) for the paper.
+Click [**here**](https://satyaki4.github.io/files/JMP_satyaki.pdf) for the paper.
 
 Thank you very much for dropping by!
