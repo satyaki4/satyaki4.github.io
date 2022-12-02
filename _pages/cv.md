@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](https://satyaki4.github.io/files/satyaki_CV_UNCG.pdf)
+[**Full CV**](https://satyaki4.github.io/files/satyaki_CV_UNCG.pdf)
 
 Education
 ======
