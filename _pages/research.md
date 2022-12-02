@@ -5,6 +5,8 @@ classes: wide
 permalink: /research/
 ---
 
+[Research statement](https://satyaki4.github.io/files/research_statement.pdf)
+
 ## Job Market Paper
 
 **America Invents Act and innovation by small entities**. 2022.
