@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-[**Summary of teaching evaluations**](https://satyaki4.github.io/files/summary_of_evaluations.pdf)
+[**Summary of teaching evaluations**](https://satyaki4.github.io/files/summary_of_evaluations_satyaki.pdf)
 
 [**Teaching statement**](https://satyaki4.github.io/files/teaching_statement_satyaki.pdf)
 
