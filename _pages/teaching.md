@@ -7,7 +7,7 @@ author_profile: true
 
 [**Summary of teaching evaluations**](https://satyaki4.github.io/files/summary_of_evaluations.pdf)
 
-[**Teaching statement**](https://satyaki4.github.io/files/teaching_statement.pdf)
+[**Teaching statement**](https://satyaki4.github.io/files/teaching_statement_satyaki.pdf)
 
 ### ECO 250: Economic and Business Statistics
 Instructor, Summer 2021

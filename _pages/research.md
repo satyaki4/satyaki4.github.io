@@ -5,7 +5,7 @@ classes: wide
 permalink: /research/
 ---
 
-[**Research statement**](https://satyaki4.github.io/files/research_statement.pdf)
+[**Research statement**](https://satyaki4.github.io/files/research_statement_satyaki.pdf)
 
 ## Job Market Paper
 
