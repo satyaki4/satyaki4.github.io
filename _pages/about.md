@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. Candidate at the Department of Economics, University of North Carolina at Greensboro. I am on the AEA and EJME 2022-23, and available for interviews.
+Hello! I am a Ph.D. Candidate at the Department of Economics, University of North Carolina at Greensboro. I will be on the job market this Fall --- 2023-24, and will be available for interviews at the AEA, AOM, and EJME.
 
 I am passionate about the economics of innovation, and particularly patents. My job market paper studies the patenting activity of small entities before and after the Leahy-Smith America Invents Act (AIA) of 2011.
 

@@ -1,3 +1,3 @@
-By the way you are on the wrong page. Since you already are on my webpage, please see my [**Research**](https://satyaki4.github.io/research/)!
+It is great that you're interested in my profile. Unfortunately, you are on the wrong page. Please click to see my here: [**Research**](https://satyaki4.github.io/research/)!
 
 
