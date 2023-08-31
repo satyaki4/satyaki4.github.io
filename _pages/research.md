@@ -19,7 +19,7 @@ This paper studies patenting activity by small U.S. entities before and after th
 
 **Is there a home bias in the time taken to grant patents in India?**. 2023.
 (with [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Taylan Mavruk](https://www.gu.se/en/about/find-staff/taylanmavruk))
-<br/><small>[Old draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403293)new draft coming soon!</small><br>
+<br/><small>[Old draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403293) new draft coming soon!</small><br>
 <small>
 China and India reported highest growth in high-tech exports for the past two decades (World Bank) and hence are increasingly becoming the countries to file for protection of intellectual property. This paper examines whether there is a delay in time to grant of a patent when applied by domestic versus foreign applicants in China and India. A delay in time to grant on the basis of nationality violates the TRIPs agreement. Further, delay in grant of a patent generates dead-weight loss for the society, hence effectively deterring future innovation. The results show that China delays foreign patents, however India does exactly the opposite, indicating that there is a significant variation in patent examination times across applicant characteristics, technology fields and countries. Thus invisible trade barriers do exist in these markets. Applicants can use the details in this paper and plan their filing strategies, e.g. taking into account average grant lag.
 </small>
