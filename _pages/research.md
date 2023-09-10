@@ -16,12 +16,17 @@ This paper studies patenting activity by small U.S. entities before and after th
 </small>
 
 ## Working Papers
+**Geography of innovation in India**.2023. (with [Nishant Chadha](https://www.idfresearch.org/team))
+<br/><small>Draft coming soon!</small><br>
+<small>
+This paper describes and uses a novel data set on patent applications from India between 2000 and 2016 to understand the spatial pattern of innovation in India and its evolution over time. Identification of such patterns of innovation over time is important as it helps us understand what motivates certain areas to be more innovative than others. Documentation of such patterns was absent to date as the addresses of patentees were not granular. We alleviate this by creating patent-level data using Intellectual Property India's public search tool that helps us add information over traditional data sources. We find that the concentration of patenting has decreased over time, with patents emerging from newer geographies. We also find that the inventors have a lower geographical concentration than patent assignees. The diffusion of innovation depends on geographical closeness to innovative regions and the absorbent capacity of the newly innovating region.
+</small>
 
 **Is there a home bias in the time taken to grant patents in India?**. 2023.
 (with [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Taylan Mavruk](https://www.gu.se/en/about/find-staff/taylanmavruk))
 <br/><small>[Draft](http://ssrn.com/abstract=3403293)</small><br>
 <small>
-This paper studies the time taken to grant patent applications in India for foreign and domestic applicants. Home bias in major patent-granting countries is well documented in the literature. Differential treatment of patents by nationality violates Article 3 and 4 of the TRIPS agreement and introduce invisible barriers to the market for protecting intellectual property. India has increasingly become an attractive destination to protect IP in recent years, but no systematic study of the functioning of the patent office in India exists. We supplement existing datasets with novel patent-level information to study two measures of bias --- duration and rate of grant of patents among domestic and foreign applicants. We do not find home bias through either of the measures at the Indian office. India does honor the TRIPS agreement's national treatment principle, unlike other major patent offices.
+This paper studies the time taken to grant patent applications in India for foreign and domestic applicants. Home bias in major patent-granting countries is well documented in the literature. Differential treatment of patents by nationality violates Article 3 and 4 of the TRIPS agreement and introduce invisible barriers to the market for protecting intellectual property. India has increasingly become an attractive destination to protect IP in recent years, but no systematic study of the functioning of the patent office in India exists. We supplement existing datasets with novel patent-level information to study two measures of bias --- duration, and rate of the grant of patents among domestic and foreign applicants. We do not find home bias through either of the measures at the Indian office. India does honor the TRIPS agreement's national treatment principle, unlike other major patent offices.
 </small>
 
 ## Other Publications
