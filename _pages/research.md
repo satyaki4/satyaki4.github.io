@@ -16,7 +16,7 @@ This paper studies patenting activity by small U.S. entities before and after th
 </small>
 
 ## Working Papers
-**Geography of innovation in India**.2023. (with [Nishant Chadha](https://www.idfresearch.org/team))
+**Geography of innovation in India**. 2023. (with [Nishant Chadha](https://www.idfresearch.org/team))
 <br/><small>Draft coming soon!</small><br>
 <small>
 This paper describes and uses a novel data set on patent applications from India between 2000 and 2016 to understand the spatial pattern of innovation in India and its evolution over time. Identification of such patterns of innovation over time is important as it helps us understand what motivates certain areas to be more innovative than others. Documentation of such patterns was absent to date as the addresses of patentees were not granular. We alleviate this by creating patent-level data using Intellectual Property India's public search tool that helps us add information over traditional data sources. We find that the concentration of patenting has decreased over time, with patents emerging from newer geographies. We also find that the inventors have a lower geographical concentration than patent assignees. The diffusion of innovation depends on geographical closeness to innovative regions and the absorbent capacity of the newly innovating region.
