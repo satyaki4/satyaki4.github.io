@@ -25,6 +25,7 @@ This paper describes and uses a novel data set on patent applications from India
 **Is there a home bias in the time taken to grant patents in India?**. 2023.
 (with [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Taylan Mavruk](https://www.gu.se/en/about/find-staff/taylanmavruk))
 <br/><small>[Draft](http://ssrn.com/abstract=3403293)</small><br>
+<br/><small>[First draft](https://satyaki4.github.io/files/grant_lag_draft_2019.pdf)</small><br>
 <small>
 This paper studies the time taken to grant patent applications in India for foreign and domestic applicants. Home bias in major patent-granting countries is well documented in the literature. Differential treatment of patents by nationality violates Article 3 and 4 of the TRIPS agreement and introduce invisible barriers to the market for protecting intellectual property. India has increasingly become an attractive destination to protect IP in recent years, but no systematic study of the functioning of the patent office in India exists. We supplement existing datasets with novel patent-level information to study two measures of bias --- duration, and rate of the grant of patents among domestic and foreign applicants. We do not find home bias through either of the measures at the Indian office. India does honor the TRIPS agreement's national treatment principle, unlike other major patent offices.
 </small>
