@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. Candidate at the Department of Economics, University of North Carolina at Greensboro and a visiting Assistant Professor at Elon University. I will be on the job market this Fall --- 2023-24, and will be available for interviews at the AEA, AOM, and EJME.
+I am a visiting Assistant Professor of Economics at Elon University and a Ph.D. Candidate at the Department of Economics, University of North Carolina at Greensboro. I will be on the job market this Fall --- 2023-24, and will be available for interviews at the AEA, AOM, and EJME.
 
 I am passionate about teaching the fundamentals of economics and researching the economics of innovation. My job market paper studies the patenting activity of small entities before and after the Leahy-Smith America Invents Act (AIA) of 2011.
 
