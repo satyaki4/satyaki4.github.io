@@ -14,4 +14,6 @@ I am passionate about teaching the fundamentals of economics and researching the
 
 Click [**here**](https://satyaki4.github.io/files/JMP_satyaki.pdf) for the paper. My research and teaching statements can be accessed from their respective tabs.
 
+Also, click [**here**](https://satyaki4.github.io/files/satyaki_CV_UNCG.pdf) for my CV.
+
 Thank you very much for dropping by!
