@@ -1,9 +1,8 @@
 ---
-layout: single
 title: "Test page"
-permalink: /home/
-#excerpt: "About me"
-author_profile: true
+layout: single
+classes: wide
+permalink: /test_page/
 ---
 
 I am a visiting Assistant Professor of Economics at Elon University and a Ph.D. Candidate at the Department of Economics, University of North Carolina at Greensboro. I will be on the job market this Fall --- 2023-24, and will be available for interviews at the AEA, AOM, and EJME.
