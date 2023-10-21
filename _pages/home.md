@@ -1,6 +1,8 @@
 ---
 layout: single
-title: "Home"
+title: "Test page"
+permalink: /home/
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
