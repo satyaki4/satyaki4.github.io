@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 layout: single
 classes: wide
 redirect_from: 
