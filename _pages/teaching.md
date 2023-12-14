@@ -11,7 +11,8 @@ author_profile: true
 
 ### ECO 1000: Principles of Economics, Elon University
 Instructor, Fall 2023 - Present
-<br/><small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C] </small><br>
+<br/><small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C_midterm] </small><br>
+<br/><small>Endterm course evaluations: [ECO 1000 Section A][eco_1000_A] |[ECO 1000 Section H][eco_1000_H] | [ECO 1000 Section C][eco_1000_C]</small><br>
 
 ### ECO 250: Economic and Business Statistics, UNC Greensboro
 Instructor, Summer 2021
@@ -38,4 +39,7 @@ Teaching Assistant, Fall 2019
 [eco_250R_02]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_02_course_evaluation.pdf
 [eco_250R_03]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_03_course_evaluation.pdf
 [eco_250R_04]: https://satyaki4.github.io/files/Spring_2021_ECO_250R_04_course_evaluation.pdf
-[eco_1000_C]: https://satyaki4.github.io/files/Fall_2023_ECO_1000_midterm_course_evaluation.pdf
+[eco_1000_A]: https://satyaki4.github.io/files/Fall_2023_ECO1000C.pdf
+[eco_1000_H]: https://satyaki4.github.io/files/Fall_2023_ECO1000C.pdf
+[eco_1000_C]: https://satyaki4.github.io/files/Fall_2023_ECO1000C.pdf
+[eco_1000_C_mid]: https://satyaki4.github.io/files/Fall_2023_ECO1000C_midterm.pdf
