@@ -5,8 +5,6 @@ classes: wide
 permalink: /research/
 ---
 
-[**Research statement**](https://satyaki4.github.io/files/research_statement_satyaki.pdf)
-
 ## Working Papers
 
 **America Invents Act and innovation by small entities**. 2023.

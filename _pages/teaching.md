@@ -7,8 +7,6 @@ author_profile: true
 
 [**Summary of teaching evaluations**](https://satyaki4.github.io/files/summary_of_evaluations_satyaki.pdf)
 
-[**Teaching statement**](https://satyaki4.github.io/files/teaching_statement_satyaki.pdf)
-
 ### ECO 1000: Principles of Economics, Elon University
 Instructor, Fall 2023 - Present
 <br/><small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C_mid]</small>  
