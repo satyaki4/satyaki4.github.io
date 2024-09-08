@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a visiting Assistant Professor of Economics at Elon University. I recently received my Ph.D. from the Department of Economics, University of North Carolina at Greensboro.
+I am a postdoc at Università Cattolica del Sacro Cuore, Milano. I work on the econ of innovation.
 
 Click [**here**](https://satyaki4.github.io/files/satyaki_CV.pdf) for my CV.
 
