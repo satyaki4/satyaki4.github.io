@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Università Cattolica del Sacro Cuore, Milano.
+I am a postdoc at the Department of Economic Policy, Università Cattolica del Sacro Cuore, Milano.
 
 Click [**here**](https://satyaki4.github.io/files/satyaki_CV.pdf) for my CV.
 
