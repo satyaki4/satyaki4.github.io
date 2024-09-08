@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Satyaki Chakravarty"
 title_separator          : "-"
 name                     : &name "Satyaki Chakravarty"
-description              : &description "Visiting AP at Elon University and Ph.D. Candidate at UNC Greensboro"
+description              : &description ""
 url                      : https://satyaki4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "satyaki4.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Satyaki Chakravarty"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate, Department of Economics"
-  location         : "UNC Greensboro"
+  bio              : "Department of Economic Policy"
+  location         : "Cattolica, Milano"
   employer         :
   pubmed           :
   googlescholar    :
