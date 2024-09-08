@@ -11,9 +11,9 @@ author_profile: true
 
 ### ECO 1000: Principles of Economics, Elon University
 Instructor, Fall 2023 - Spring 2024
-<br/><small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C_mid]</small> 
-<small>Midterm course evaluations - Spring 2024: [ECO 1000 Section E][eco_1000_E_mid]</small> 
-<small>Endterm course evaluations: [ECO 1000 Section A][eco_1000_A] |[ECO 1000 Section H][eco_1000_H] | [ECO 1000 Section C][eco_1000_C]</small> 
+<br/><small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C_mid]</small>	
+<small>Midterm course evaluations - Spring 2024: [ECO 1000 Section E][eco_1000_E_mid]</small>	
+<small>Endterm course evaluations: [ECO 1000 Section A][eco_1000_A] |[ECO 1000 Section H][eco_1000_H] | [ECO 1000 Section C][eco_1000_C]</small>	
 <small>Endterm course evaluations: [ECO 1000 Section D][eco_1000_D] |[ECO 1000 Section E][eco_1000_E] | [ECO 1000 Section F][eco_1000_F] | [ECO 1000 Section K][eco_1000_K]</small><br>
 
 ### ECO 250: Economic and Business Statistics, UNC Greensboro
@@ -21,7 +21,7 @@ Instructor, Summer 2021
 <br/><small>Course evaluations - Summer 2021: [ECO 250-01][eco_250_01]</small><br>
 
 Teaching Assistant, Fall 2020 - Spring 2023
-<br/><small>Course evaluations - Fall 2020: [ECO 250R-17][eco_250R_17]</small> 
+<br/><small>Course evaluations - Fall 2020: [ECO 250R-17][eco_250R_17]</small>	
 <small>Course evaluations - Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small><br>
 
 ### ECO 201: Microeconomics, UNC Greensboro
