@@ -21,8 +21,8 @@ Instructor, Summer 2021
 <br/><small>Course evaluations - Summer 2021: [ECO 250-01][eco_250_01]</small><br>
 
 Teaching Assistant, Fall 2020 - Spring 2023
-<br/><small>Course evaluations - Fall 2020: [ECO 250R-17][eco_250R_17]</small><br/>
-<br/><small>Course evaluations - Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small><br>
+<small>Course evaluations - Fall 2020: [ECO 250R-17][eco_250R_17]</small>  
+<small>Course evaluations - Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small>
 
 ### ECO 201: Microeconomics, UNC Greensboro
 Teaching Assistant, Spring 2020
