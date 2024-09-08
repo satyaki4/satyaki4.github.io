@@ -44,9 +44,9 @@ Teaching Assistant, Fall 2019
 [eco_1000_A]: https://satyaki4.github.io/files/Fall_2023_ECO1000A.pdf
 [eco_1000_H]: https://satyaki4.github.io/files/Fall_2023_ECO1000H.pdf
 [eco_1000_C]: https://satyaki4.github.io/files/Fall_2023_ECO1000C.pdf
-[eco_1000_D]: https://satyaki4.github.io/files/Fall_2023_ECO1000D.pdf
-[eco_1000_E]: https://satyaki4.github.io/files/Fall_2023_ECO1000E.pdf
-[eco_1000_F]: https://satyaki4.github.io/files/Fall_2023_ECO1000F.pdf
-[eco_1000_K]: https://satyaki4.github.io/files/Fall_2023_ECO1000K.pdf
+[eco_1000_D]: https://satyaki4.github.io/files/Spring_2024_ECO1000D.pdf
+[eco_1000_E]: https://satyaki4.github.io/files/Spring_2024_ECO1000E.pdf
+[eco_1000_F]: https://satyaki4.github.io/files/Spring_2024_ECO1000F.pdf
+[eco_1000_K]: https://satyaki4.github.io/files/Spring_2024_ECO1000K.pdf
 [eco_1000_C_mid]: https://satyaki4.github.io/files/Fall_2023_ECO1000C_midterm.pdf
-[eco_1000_E_mid]: https://satyaki4.github.io/files/Fall_2023_ECO1000E_midterm.pdf
+[eco_1000_E_mid]: https://satyaki4.github.io/files/Spring_2024_ECO1000E_midterm.pdf
