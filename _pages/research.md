@@ -26,7 +26,7 @@ This paper describes and uses a novel data set on patent applications from India
 This article studies the difference between the time to grant foreign and domestic patent applications in India. Home bias violates the TRIPS agreement and introduces invisible barriers to innovation, but is well-documented to exist in major patent-granting countries. India has become an attractive destination for protecting patents in recent years, but no study of the office and TRIPS compliance exists. We supplement existing datasets with novel patent-level information to study the duration and rate of grant among domestic and foreign patent applications. We do not find home bias at the Indian office, contrary to the findings from major patent offices.
 </small>
 
-## Other Publications
+## Policy papers
 
 **Should FRAND royalties be based on SSPPU or downstream prices- An analytical framework**. 2018. Policy Brief IPR/2018/02, India Development Foundation
 (with [Ishan Banerjee](https://twitter.com/ishanbanerjee?lang=en), [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Geeta Gouri](https://www.idfresearch.org/team))
