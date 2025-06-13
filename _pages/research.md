@@ -19,7 +19,7 @@ This paper studies patenting activity by small U.S. entities before and after th
 This paper describes and uses a novel data set on patent applications from India between 2000 and 2016 to understand the spatial pattern of innovation in India and its evolution over time. Identification of such patterns of innovation over time is important as it helps us understand what motivates certain areas to be more innovative than others. Documentation of such patterns was absent to date as the addresses of patentees did not include enough information. We alleviate this by creating patent-level data using Intellectual Property India's public search tool that helps us add additional information such as pincodes of inventors that remains unavailable in existing data sources. We find that the concentration of patenting has decreased over time, with patents emerging from newer geographies, especially if they are close enough to an innovation hub. We also find that the inventors have a lower geographical concentration than patent assignees. The diffusion of innovation depends on geographical closeness to innovative regions and the absorbent capacity of the newly innovating region.
 </small>
 
-**Is there a home bias in the time taken to grant patents in India?**. 2023.
+**Is there a home bias in the time taken to grant patents in India?**. 2023. _R&R_ _EINT_
 (with [Shubhashis Gangopadhyay](https://www.idfresearch.org/team) and [Taylan Mavruk](https://www.gu.se/en/about/find-staff/taylanmavruk))
 <br/><small>[Latest draft](http://ssrn.com/abstract=3403293); [First draft](https://satyaki4.github.io/files/grant_lag_draft_2019.pdf)</small><br>
 <small>
