@@ -28,7 +28,7 @@ Instructor, Fall 2023 - Spring 2024
 ### ECO 250: Economic and Business Statistics, UNC Greensboro
 Instructor, Summer 2021  
 <small>Course evaluations - Summer 2021: 
-<sub>[ECO 250-01][eco_250_01]</sub></small><br style="line-height:50%;">
+<sub>[ECO 250-01][eco_250_01]</sub></small><br style="line-height:50%;">  
 Teaching Assistant, Fall 2020 - Spring 2023  
 <small>Course evaluations - Fall 2020: 
 <sub>[ECO 250R-17][eco_250R_17]</sub></small><br style="line-height:50%;">
