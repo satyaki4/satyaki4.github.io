@@ -20,10 +20,10 @@ Instructor, Fall 2023 - Spring 2024
 <sub>[ECO 1000 Section A][eco_1000_A]</sub> | 
 <sub>[ECO 1000 Section H][eco_1000_H]</sub> | 
 <sub>[ECO 1000 Section C][eco_1000_C]</sub></small><br style="line-height:50%;">
-<small>Midterm course evaluations - Fall 2023: 
-<sub>[ECO 1000 Section C][eco_1000_C_mid]</sub></small><br style="line-height:50%;">
 <small>Midterm course evaluations - Spring 2024: 
-<sub>[ECO 1000 Section E][eco_1000_E_mid]</sub></small>
+<sub>[ECO 1000 Section E][eco_1000_E_mid]</sub></small><br style="line-height:50%;">
+<small>Midterm course evaluations - Fall 2023: 
+<sub>[ECO 1000 Section C][eco_1000_C_mid]</sub></small>
 
 ### ECO 250: Economic and Business Statistics, UNC Greensboro
 Instructor, Summer 2021  
