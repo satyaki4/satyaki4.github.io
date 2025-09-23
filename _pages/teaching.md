@@ -26,16 +26,27 @@ Instructor, Fall 2023 - Spring 2024
 <sub>[ECO 1000 Section E][eco_1000_E_mid]</sub></small>
 
 ### ECO 250: Economic and Business Statistics, UNC Greensboro
-Instructor, Summer 2021
-<br/><small>Course evaluations - Summer 2021: [ECO 250-01][eco_250_01]</small><br>
+Instructor, Summer 2021  
+<br/><small>Course evaluations - Summer 2021: 
+<sub>[ECO 250-01][eco_250_01]</sub></small><br style="line-height:50%;">
 
 Teaching Assistant, Fall 2020 - Spring 2023  
-<small>Course evaluations - Fall 2020: [ECO 250R-17][eco_250R_17]</small>  
-<small>Course evaluations - Spring 2021: [ECO 250R-01][eco_250R_01] | [ECO 250R-02][eco_250R_02] | [ECO 250R-03][eco_250R_03] | [ECO 250R-04][eco_250R_04]</small>
+<small>Course evaluations - Fall 2020: 
+<sub>[ECO 250R-17][eco_250R_17]</sub></small><br style="line-height:50%;">  
+
+<small>Course evaluations - Spring 2021: 
+<sub>[ECO 250R-01][eco_250R_01]</sub> | 
+<sub>[ECO 250R-02][eco_250R_02]</sub> | 
+<sub>[ECO 250R-03][eco_250R_03]</sub> | 
+<sub>[ECO 250R-04][eco_250R_04]</sub></small><br style="line-height:50%;">
 
 ### ECO 201: Microeconomics, UNC Greensboro
-Teaching Assistant, Spring 2020
-<br/><small>Course evaluations - Spring 2020: [ECO 201R-04][eco_201R_04] | [ECO 201R-05][eco_201R_05] | [ECO 201R-06][eco_201R_06] | [ECO 201R-07][eco_201R_07]</small><br>
+Teaching Assistant, Spring 2020  
+<br/><small>Course evaluations - Spring 2020: 
+<sub>[ECO 201R-04][eco_201R_04]</sub> | 
+<sub>[ECO 201R-05][eco_201R_05]</sub> | 
+<sub>[ECO 201R-06][eco_201R_06]</sub> | 
+<sub>[ECO 201R-07][eco_201R_07]</sub></small><br style="line-height:50%;">
 
 ### ECO 100/MAS 620: Economics of Global Sustainable Society, UNC Greensboro
 Teaching Assistant, Fall 2019
