@@ -31,7 +31,7 @@ Instructor, Summer 2021
 <sub>[ECO 250-01][eco_250_01]</sub></small><br style="line-height:50%;">
 Teaching Assistant, Fall 2020 - Spring 2023  
 <small>Course evaluations - Fall 2020: 
-<sub>[ECO 250R-17][eco_250R_17]</sub></small><br style="line-height:50%;">  
+<sub>[ECO 250R-17][eco_250R_17]</sub></small><br style="line-height:50%;">
 <small>Course evaluations - Spring 2021: 
 <sub>[ECO 250R-01][eco_250R_01]</sub> | 
 <sub>[ECO 250R-02][eco_250R_02]</sub> | 
