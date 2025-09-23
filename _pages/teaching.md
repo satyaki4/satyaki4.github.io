@@ -16,15 +16,12 @@ Instructor, Fall 2023 - Spring 2024
 <sub>[ECO 1000 Section E][eco_1000_E]</sub> | 
 <sub>[ECO 1000 Section F][eco_1000_F]</sub> | 
 <sub>[ECO 1000 Section K][eco_1000_K]</sub></small><br style="line-height:50%;">
-
 <small>Endterm course evaluations, Fall 2023: 
 <sub>[ECO 1000 Section A][eco_1000_A]</sub> | 
 <sub>[ECO 1000 Section H][eco_1000_H]</sub> | 
 <sub>[ECO 1000 Section C][eco_1000_C]</sub></small><br style="line-height:50%;">
-
 <small>Midterm course evaluations - Fall 2023: 
 <sub>[ECO 1000 Section C][eco_1000_C_mid]</sub></small><br style="line-height:50%;">
-
 <small>Midterm course evaluations - Spring 2024: 
 <sub>[ECO 1000 Section E][eco_1000_E_mid]</sub></small>
 
