@@ -12,6 +12,7 @@ author_profile: true
 ### ECO 1000: Principles of Economics, Elon University
 Instructor, Fall 2023 - Spring 2024  
 <small>Endterm course evaluations (Latest, Spring 2024): [ECO 1000 Section D][eco_1000_D] | [ECO 1000 Section E][eco_1000_E] | [ECO 1000 Section F][eco_1000_F] | [ECO 1000 Section K][eco_1000_K]</small>
+
 <small>Endterm course evaluations, Fall 2023: [ECO 1000 Section A][eco_1000_A] | [ECO 1000 Section H][eco_1000_H] | [ECO 1000 Section C][eco_1000_C]</small>  
 <small>Midterm course evaluations - Fall 2023: [ECO 1000 Section C][eco_1000_C_mid]</small>  
 <small>Midterm course evaluations - Spring 2024: [ECO 1000 Section E][eco_1000_E_mid]</small>  
