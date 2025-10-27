@@ -19,5 +19,6 @@ Education
 
 Work experience
 ======
-*  Visiting Assistant Professor of Economics, Elon University, 2023 - Present
+*  Research Fellow, Università Cattolica del Sacro Cuore, 2024 - Present
+*  Visiting Assistant Professor of Economics, Elon University, 2023 - 2024
 *  Research Assistant, India Development Foundation, 2016 - 2019
