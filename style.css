@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #333;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+  line-height: 1.6;
+}
+
+a {
+  color: #333;
+}
+
+a:hover {
+  color: #000;
+}
+
+/* Nav */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 2rem;
+}
+
+nav .site-name {
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #333;
+}
+
+nav .nav-links a {
+  font-size: 0.9rem;
+  color: #555;
+  text-decoration: none;
+  margin-left: 1.4rem;
+}
+
+nav .nav-links a:hover {
+  color: #000;
+}
+
+/* Home intro */
+.intro {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.intro img {
+  width: 220px;
+  flex-shrink: 0;
+  border-radius: 2px;
+}
+
+.intro p {
+  margin-top: 0;
+}
+
+/* Section headings */
+h2 {
+  font-size: 1.1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+}
+
+/* Paper entries */
+.paper {
+  margin-bottom: 1.8rem;
+}
+
+.paper-title {
+  font-weight: bold;
+}
+
+.paper-title a {
+  text-decoration: none;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
+}
+
+.paper-meta {
+  font-size: 0.9rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #555;
+  margin: 0.2rem 0;
+}
+
+.paper-meta a {
+  color: #555;
+}
+
+.paper-meta a:hover {
+  color: #000;
+}
+
+.abstract {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: #444;
+  margin-top: 0.4rem;
+  margin-bottom: 0;
+}
+
+/* Teaching */
+.course {
+  margin-bottom: 1.8rem;
+}
+
+.course h3 {
+  font-size: 1rem;
+  margin-bottom: 0.1rem;
+  margin-top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 600;
+}
+
+.course .role {
+  font-size: 0.9rem;
+  color: #444;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  margin: 0.1rem 0;
+}
+
+.evals {
+  font-size: 0.85rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  margin-top: 0.3rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+.evals a {
+  color: #555;
+}
+
+.evals a:hover {
+  color: #000;
+}
+
+/* Responsive */
+@media (max-width: 540px) {
+  .intro {
+    flex-direction: column;
+  }
+  .intro img {
+    width: 160px;
+  }
+}
