@@ -133,6 +133,17 @@ h2 {
   color: #000;
 }
 
+.abstract summary .toggle::after {
+  content: " [+]";
+  display: inline-block;
+  white-space: pre;
+  text-decoration: none;
+}
+
+.abstract[open] summary .toggle::after {
+  content: " [\2212]";
+}
+
 .sep {
   color: #bbb;
   margin: 0 0.2rem;
